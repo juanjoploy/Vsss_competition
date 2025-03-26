@@ -1,0 +1,4 @@
+[console_scripts]
+movement_node = robot_mqtt.movement_node:main
+robot_mqtt = robot_mqtt.mqtt_publisher:main
+

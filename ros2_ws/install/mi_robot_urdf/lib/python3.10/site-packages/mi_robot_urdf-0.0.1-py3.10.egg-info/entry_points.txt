@@ -1,0 +1,3 @@
+[console_scripts]
+display_rviz = mi_robot_urdf.display_rviz:main
+

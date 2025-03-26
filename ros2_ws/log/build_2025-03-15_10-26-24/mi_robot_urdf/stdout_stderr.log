@@ -1,0 +1,28 @@
+running develop
+running egg_info
+creating mi_robot_urdf.egg-info
+writing mi_robot_urdf.egg-info/PKG-INFO
+writing dependency_links to mi_robot_urdf.egg-info/dependency_links.txt
+writing entry points to mi_robot_urdf.egg-info/entry_points.txt
+writing requirements to mi_robot_urdf.egg-info/requires.txt
+writing top-level names to mi_robot_urdf.egg-info/top_level.txt
+writing manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+reading manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+writing manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi-robot-urdf.egg-link (link to .)
+Installing display_rviz script to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/mi_robot_urdf
+
+Installed /home/juan/workspace/ros2_ws/build/mi_robot_urdf
+running symlink_data
+creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index
+creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index
+creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index/packages
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/resource/mi_robot_urdf -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index/packages
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/package.xml -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf
+creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/urdf
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/urdf/caja_con_ruedas.urdf.xacro -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/urdf
+creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/gazebo.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/display1.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/display.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch

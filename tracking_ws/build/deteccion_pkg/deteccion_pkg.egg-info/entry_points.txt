@@ -1,0 +1,8 @@
+[console_scripts]
+camera_node = deteccion_pkg.camera_node:main
+position_analyzer_node = deteccion_pkg.position_analyzer_node:main
+trajectory_graph_node = deteccion_pkg.trajectory_graph_node:main
+trajectory_node = deteccion_pkg.trajectory_node:main
+trajectory_plotter_node = deteccion_pkg.trajectory_plotter_node:main
+viewer_node = deteccion_pkg.viewer_node:main
+

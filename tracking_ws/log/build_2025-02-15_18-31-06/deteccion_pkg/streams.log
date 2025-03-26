@@ -1,0 +1,27 @@
+[1.126s] Invoking command in '/home/juan/tracking_ws/src/deteccion_pkg': PYTHONPATH=/home/juan/tracking_ws/build/deteccion_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/deteccion_pkg build --build-base /home/juan/tracking_ws/build/deteccion_pkg/build install --record /home/juan/tracking_ws/build/deteccion_pkg/install.log --single-version-externally-managed install_data
+[1.551s] running egg_info
+[1.553s] writing ../../build/deteccion_pkg/deteccion_pkg.egg-info/PKG-INFO
+[1.553s] writing dependency_links to ../../build/deteccion_pkg/deteccion_pkg.egg-info/dependency_links.txt
+[1.553s] writing entry points to ../../build/deteccion_pkg/deteccion_pkg.egg-info/entry_points.txt
+[1.554s] writing requirements to ../../build/deteccion_pkg/deteccion_pkg.egg-info/requires.txt
+[1.554s] writing top-level names to ../../build/deteccion_pkg/deteccion_pkg.egg-info/top_level.txt
+[1.557s] reading manifest file '../../build/deteccion_pkg/deteccion_pkg.egg-info/SOURCES.txt'
+[1.559s] writing manifest file '../../build/deteccion_pkg/deteccion_pkg.egg-info/SOURCES.txt'
+[1.559s] running build
+[1.560s] running build_py
+[1.560s] copying deteccion_pkg/position_analyzer_node.py -> /home/juan/tracking_ws/build/deteccion_pkg/build/lib/deteccion_pkg
+[1.560s] running install
+[1.561s] running install_lib
+[1.562s] copying /home/juan/tracking_ws/build/deteccion_pkg/build/lib/deteccion_pkg/position_analyzer_node.py -> /home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages/deteccion_pkg
+[1.564s] byte-compiling /home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages/deteccion_pkg/position_analyzer_node.py to position_analyzer_node.cpython-310.pyc
+[1.566s] running install_data
+[1.566s] running install_egg_info
+[1.569s] removing '/home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages/deteccion_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.569s] Copying ../../build/deteccion_pkg/deteccion_pkg.egg-info to /home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages/deteccion_pkg-0.0.0-py3.10.egg-info
+[1.571s] running install_scripts
+[1.608s] Installing camera_node script to /home/juan/tracking_ws/install/deteccion_pkg/lib/deteccion_pkg
+[1.609s] Installing position_analyzer_node script to /home/juan/tracking_ws/install/deteccion_pkg/lib/deteccion_pkg
+[1.609s] Installing trajectory_node script to /home/juan/tracking_ws/install/deteccion_pkg/lib/deteccion_pkg
+[1.609s] Installing viewer_node script to /home/juan/tracking_ws/install/deteccion_pkg/lib/deteccion_pkg
+[1.610s] writing list of installed files to '/home/juan/tracking_ws/build/deteccion_pkg/install.log'
+[1.676s] Invoked command in '/home/juan/tracking_ws/src/deteccion_pkg' returned '0': PYTHONPATH=/home/juan/tracking_ws/build/deteccion_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/tracking_ws/install/deteccion_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/deteccion_pkg build --build-base /home/juan/tracking_ws/build/deteccion_pkg/build install --record /home/juan/tracking_ws/build/deteccion_pkg/install.log --single-version-externally-managed install_data

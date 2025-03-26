@@ -1,0 +1,21 @@
+[0.509s] Invoking command in '/home/juan/workspace/ros2_ws/src/mi_robot_urdf': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_robot_urdf build --build-base /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build install --record /home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log --single-version-externally-managed install_data
+[0.686s] running egg_info
+[0.686s] writing ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/PKG-INFO
+[0.686s] writing dependency_links to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/dependency_links.txt
+[0.686s] writing entry points to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/entry_points.txt
+[0.686s] writing requirements to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/requires.txt
+[0.687s] writing top-level names to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/top_level.txt
+[0.688s] reading manifest file '../../build/mi_robot_urdf/mi_robot_urdf.egg-info/SOURCES.txt'
+[0.688s] writing manifest file '../../build/mi_robot_urdf/mi_robot_urdf.egg-info/SOURCES.txt'
+[0.688s] running build
+[0.688s] running build_py
+[0.688s] running install
+[0.689s] running install_lib
+[0.690s] running install_data
+[0.690s] running install_egg_info
+[0.691s] removing '/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf-0.0.1-py3.10.egg-info' (and everything under it)
+[0.691s] Copying ../../build/mi_robot_urdf/mi_robot_urdf.egg-info to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf-0.0.1-py3.10.egg-info
+[0.692s] running install_scripts
+[0.708s] Installing display_rviz script to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/mi_robot_urdf
+[0.708s] writing list of installed files to '/home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log'
+[0.737s] Invoked command in '/home/juan/workspace/ros2_ws/src/mi_robot_urdf' returned '0': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_robot_urdf build --build-base /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build install --record /home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log --single-version-externally-managed install_data

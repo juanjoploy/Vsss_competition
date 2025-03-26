@@ -1,0 +1,29 @@
+[0.537s] Invoking command in '/home/juan/workspace/ros2_ws/build/mi_robot_urdf': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build --no-deps symlink_data
+[0.783s] running develop
+[0.893s] running egg_info
+[0.894s] creating mi_robot_urdf.egg-info
+[0.894s] writing mi_robot_urdf.egg-info/PKG-INFO
+[0.894s] writing dependency_links to mi_robot_urdf.egg-info/dependency_links.txt
+[0.894s] writing entry points to mi_robot_urdf.egg-info/entry_points.txt
+[0.894s] writing requirements to mi_robot_urdf.egg-info/requires.txt
+[0.894s] writing top-level names to mi_robot_urdf.egg-info/top_level.txt
+[0.894s] writing manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+[0.895s] reading manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+[0.896s] writing manifest file 'mi_robot_urdf.egg-info/SOURCES.txt'
+[0.897s] running build_ext
+[0.897s] Creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi-robot-urdf.egg-link (link to .)
+[0.898s] Installing display_rviz script to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/mi_robot_urdf
+[0.898s] 
+[0.898s] Installed /home/juan/workspace/ros2_ws/build/mi_robot_urdf
+[0.898s] running symlink_data
+[0.898s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index
+[0.898s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index
+[0.898s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index/packages
+[0.898s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/resource/mi_robot_urdf -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index/packages
+[0.898s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/package.xml -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf
+[0.898s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/urdf
+[0.899s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/urdf/caja_con_ruedas.urdf.xacro -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/urdf
+[0.899s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.899s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/gazebo.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.899s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/display1.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.899s] symbolically linking /home/juan/workspace/ros2_ws/build/mi_robot_urdf/launch/display.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch

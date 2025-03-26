@@ -1,0 +1,40 @@
+[0.467s] Invoking command in '/home/juan/workspace/ros2_ws/build/mi_robot_urdf': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build
+[0.652s] running develop
+[0.761s] Removing /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi-robot-urdf.egg-link (link to .)
+[0.791s] Invoked command in '/home/juan/workspace/ros2_ws/build/mi_robot_urdf' returned '0': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build
+[0.792s] Invoking command in '/home/juan/workspace/ros2_ws/src/mi_robot_urdf': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_robot_urdf build --build-base /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build install --record /home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log --single-version-externally-managed install_data --force
+[0.966s] running egg_info
+[0.966s] writing ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/PKG-INFO
+[0.966s] writing dependency_links to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/dependency_links.txt
+[0.967s] writing entry points to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/entry_points.txt
+[0.967s] writing requirements to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/requires.txt
+[0.967s] writing top-level names to ../../build/mi_robot_urdf/mi_robot_urdf.egg-info/top_level.txt
+[0.968s] reading manifest file '../../build/mi_robot_urdf/mi_robot_urdf.egg-info/SOURCES.txt'
+[0.969s] writing manifest file '../../build/mi_robot_urdf/mi_robot_urdf.egg-info/SOURCES.txt'
+[0.969s] running build
+[0.969s] running build_py
+[0.969s] creating /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build
+[0.969s] creating /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib
+[0.969s] creating /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib/mi_robot_urdf
+[0.969s] copying mi_robot_urdf/display_rviz.py -> /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib/mi_robot_urdf
+[0.969s] copying mi_robot_urdf/__init__.py -> /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib/mi_robot_urdf
+[0.970s] running install
+[0.970s] running install_lib
+[0.970s] creating /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf
+[0.970s] copying /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib/mi_robot_urdf/display_rviz.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf
+[0.970s] copying /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build/lib/mi_robot_urdf/__init__.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf
+[0.970s] byte-compiling /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf/display_rviz.py to display_rviz.cpython-310.pyc
+[0.971s] byte-compiling /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf/__init__.py to __init__.cpython-310.pyc
+[0.971s] running install_data
+[0.971s] copying resource/mi_robot_urdf -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/ament_index/resource_index/packages
+[0.971s] copying package.xml -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf
+[0.971s] copying urdf/caja_con_ruedas.urdf.xacro -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/urdf
+[0.971s] copying launch/gazebo.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.972s] copying launch/display1.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.972s] copying launch/display.launch.py -> /home/juan/workspace/ros2_ws/install/mi_robot_urdf/share/mi_robot_urdf/launch
+[0.972s] running install_egg_info
+[0.973s] Copying ../../build/mi_robot_urdf/mi_robot_urdf.egg-info to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages/mi_robot_urdf-0.0.1-py3.10.egg-info
+[0.974s] running install_scripts
+[0.990s] Installing display_rviz script to /home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/mi_robot_urdf
+[0.990s] writing list of installed files to '/home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log'
+[1.015s] Invoked command in '/home/juan/workspace/ros2_ws/src/mi_robot_urdf' returned '0': PYTHONPATH=/home/juan/workspace/ros2_ws/build/mi_robot_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/workspace/ros2_ws/install/mi_robot_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_robot_urdf build --build-base /home/juan/workspace/ros2_ws/build/mi_robot_urdf/build install --record /home/juan/workspace/ros2_ws/build/mi_robot_urdf/install.log --single-version-externally-managed install_data --force
